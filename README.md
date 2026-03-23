@@ -71,6 +71,8 @@ return 0;
 ```
 
 Output:
+
+
 <img width="684" height="295" alt="image" src="https://github.com/user-attachments/assets/89363534-58bf-4496-89c8-6b2bf316fcab" />
 
 
